@@ -1,0 +1,8 @@
+.idea/
+
+
+/docker/mariadb/data/
+/docker/mariadb_test/data/
+/docker/nginx/logs/nginx/
+/docker/php-fpm/local.ini
+/docker/.env
